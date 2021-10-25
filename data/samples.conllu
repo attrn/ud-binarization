@@ -1,0 +1,19 @@
+# sent_id = email-enronsent37_01-0093
+# text = Which I then realized I missed.
+1	Which	which	PRON	WDT	PronType=Int	6	obj	6:obj	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+3	then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod	_
+4	realized	realize	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+6	missed	miss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	SpaceAfter=No
+7	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = newsgroup-groups.google.com_Meditation20052_06390a5f75b2e1f2_ENG_20050316_091700-0060
+# text = Continue for as long as you like
+1	Continue	continue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	for	for	ADP	IN	_	4	case	4:case	_
+3	as	as	ADV	RB	_	4	advmod	4:advmod	_
+4	long	long	ADV	RB	Degree=Pos	1	obl	1:obl:for	_
+5	as	as	SCONJ	IN	_	7	mark	7:mark	_
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
+7	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:as	SpaceAfter=No

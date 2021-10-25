@@ -1,0 +1,20 @@
+# sent_id = email-enronsent37_01-0093
+# text = Which I then realized I missed.
+(obj (PRON Which)
+     (punct-H (nsubj-H (PRON I)
+                       (ccomp-H (advmod-H (ADV then)
+                                          (VERB-H realized))
+                                (nsubj (PRON I)
+                                       (VERB-H missed))))
+              (PUNCT .)))
+
+# sent_id = newsgroup-groups.google.com_Meditation20052_06390a5f75b2e1f2_ENG_20050316_091700-0060
+# text = Continue for as long as you like
+(obl (VERB-H Continue)
+     (advcl (case-H (ADP for)
+                    (advmod-H (ADV as)
+                              (ADV-H long)))
+            (mark (SCONJ as)
+                  (nsubj-H (PRON you)
+                           (VERB-H like)))))
+
